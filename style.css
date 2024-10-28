@@ -1,0 +1,17 @@
+div{
+    background-color: green;
+}
+hr{
+    height: 20px;
+    background-color: lightgray;
+}
+.copy{
+    background-color: green;
+}
+table,tr,th,td{
+    border: 2px solid;
+}
+video{
+    height: 500px;
+    width: 800px;
+}
